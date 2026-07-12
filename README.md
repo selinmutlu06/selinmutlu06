@@ -1,15 +1,12 @@
 <h1 align="center">hey, i'm selin!</h1>
 
 <p align="center">
-  math + cs @ duke | building at the edge of quant, edtech &amp; ai
+  math + cs @ duke 
 </p>
 
 <p align="center">
-  <a href="https://www.selinmutlu.com/">website</a> •
-  <a href="https://linkedin.com/in/selin-s-mutlu">linkedin</a> •
-  <a href="https://x.com/sselinmutluu">x</a> •
-  <a href="https://substack.com/@selinmutlu">substack</a> •
-  <a href="mailto:selin.mutlu@duke.edu">email</a>
+  <a href="https://www.selinmutlu.com/">check me out</a> or
+  <a href="mailto:selin.mutlu@duke.edu">contact me</a> :)
 </p>
 
 ---
@@ -17,31 +14,31 @@
 ```python
 def selin():
     studying   = "math + computer science @ duke"
-    hometown   = "lynbrook, new york"
-    building   = "things that are equal parts useful and a little weird"
-    into       = ["quant finance", "edtech", "startups", "accessibility"]
-    off_screen = ["matcha", "cafe hopping", "attempting to dj", "custom pc builds"]
-    return "let's build something cool"
+    hometown   = "malverne, new york"
+    building   = "whatever i obsess over at that moment"
+    into       = ["caffeine", "custom keyboards", "accessibility", "how brains work"]
+    off_screen = ["making lattes", "cafe hopping", "attempting to dj", "custom pc builds"]
+    return "chalant"
 ```
 
 ### what i'm up to
 
-- 🤖 building ai tools that actually do something: research assistants & agents
-- 📈 thinking in quant: finance, edtech, and where math meets the real world
-- ♿ obsessed with accessibility, because tech should work for everyone
-- 🛠️ shipping side projects faster than i can name them (and building the pc to run them)
+- 🧠 spent a year in an eeg lab watching brains react to broken social rules
+- ♿ building everything accessibility-first, because tech should work for everyone
+- ⌨️ i build my own keyboards, and i built the pc they plug into
+- 💻 wrote my first line of code in january of freshman year. it escalated quickly
 
 ### things i've made
 
 | project | what it is |
 |---|---|
-| **[liftspot](https://liftspot.netlify.app)** | an app to find, rate & review elevators |
+| **[liftspot](https://liftspot.netlify.app)** | an app to find, rate & review elevators, built for my brother |
 | **[normlit](https://v0-normlit-research-assistant-djiy.vercel.app/)** | an ai research assistant for querying academic libraries |
-| **sales ai agent** | surfaces the right customer stories for sales teams |
+| **[carti-measured](https://github.com/selinmutlu06/carti-measured)** | 84 tracks, 12 audio features, proof the fans were right about wlr |
 
 ### toolbox
 
 ```python
 def toolbox():
-    return ["python", "typescript", "next.js", "react", "supabase", "tailwind"]
+    return ["python", "c++", "typescript", "next.js", "react", "supabase", "tailwind", "jupyter"]
 ```
