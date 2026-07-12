@@ -21,13 +21,6 @@ def selin():
     return "chalant"
 ```
 
-### what i'm up to
-
-- 🧠 spent a year in an eeg lab watching brains react to broken social rules
-- ♿ building everything accessibility-first, because tech should work for everyone
-- ⌨️ i build my own keyboards, and i built the pc they plug into
-- 💻 wrote my first line of code in january of freshman year. it escalated quickly
-
 ### things i've made
 
 | project | what it is |
