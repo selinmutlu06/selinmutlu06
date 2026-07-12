@@ -1,10 +1,10 @@
-<h1 align="center">hey, i'm selin!</h1>
+<h1 align="left">hey, i'm selin!</h1>
 
-<p align="center">
+<p align="left">
   math + cs @ duke 
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.selinmutlu.com/">check me out</a> or
   <a href="mailto:selin.mutlu@duke.edu">contact me</a> :)
 </p>
