@@ -29,9 +29,6 @@ def selin():
 | **[normlit](https://v0-normlit-research-assistant-djiy.vercel.app/)** | an ai research assistant for querying academic libraries |
 | **[carti-measured](https://github.com/selinmutlu06/carti-measured)** | 84 tracks, 12 audio features, proof fans were right about wlr |
 
-### toolbox
+## toolbox
 
-```python
-def toolbox():
-    return ["python", "c++", "typescript", "next.js", "react", "supabase", "tailwind", "jupyter"]
-```
+<img src="toolbox-keyboard.svg" width="600" alt="my toolbox as a keyboard — python, c++, typescript, sql, next.js, react, fastapi, supabase, tailwind, jupyter, aws, git, and claude code on the spacebar">
