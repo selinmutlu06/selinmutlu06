@@ -9,18 +9,6 @@
   <a href="mailto:selin.mutlu@duke.edu">contact me</a> :)
 </p>
 
----
-
-```python
-def selin():
-    studying   = "math + computer science @ duke"
-    hometown   = "malverne, new york"
-    building   = "whatever i obsess over at that moment"
-    into       = ["caffeine", "custom keyboards", "accessibility", "how brains work"]
-    off_screen = ["making lattes", "cafe hopping", "attempting to dj", "custom pc builds"]
-    return "chalant"
-```
-
 ### things i've made
 
 | project | what it is |
