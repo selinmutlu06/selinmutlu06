@@ -1,7 +1,7 @@
 <h1 align="left">hey, i'm selin!</h1>
 
 <p align="left">
-  math + computer science @ duke 
+  math & computer science @ duke 
 </p>
 
 <p align="left">
