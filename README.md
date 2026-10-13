@@ -22,11 +22,12 @@
 <p align="left">
   <a href="https://www.python.org"><img src="stickers/python.png" width="60" alt="python"></a>
   <a href="https://isocpp.org"><img src="stickers/cpp.png" width="60" alt="c++"></a>
+  <a href="https://dev.java"><img src="stickers/java.png" width="60" alt="java"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="stickers/javascript.png" width="60" alt="javascript"></a>
   <a href="https://www.typescriptlang.org"><img src="stickers/typescript.png" width="60" alt="typescript"></a>
   <a href="https://en.wikipedia.org/wiki/SQL"><img src="stickers/sql.png" width="60" alt="sql"></a>
   <a href="https://nextjs.org"><img src="stickers/nextjs.png" width="60" alt="next.js"></a>
   <a href="https://react.dev"><img src="stickers/react.png" width="60" alt="react"></a>
-  <a href="https://fastapi.tiangolo.com"><img src="stickers/fastapi.png" width="60" alt="fastapi"></a>
   <a href="https://supabase.com"><img src="stickers/supabase.png" width="60" alt="supabase"></a>
   <a href="https://tailwindcss.com"><img src="stickers/tailwind.png" width="60" alt="tailwind"></a>
   <a href="https://jupyter.org"><img src="stickers/jupyter.png" width="60" alt="jupyter"></a>
