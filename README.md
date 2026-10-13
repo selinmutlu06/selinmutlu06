@@ -20,18 +20,18 @@
 ## toolbox
 
 <p align="left">
-  <a href="https://www.python.org"><img src="stickers/python.png" width="60" alt="python"></a>
-  <a href="https://isocpp.org"><img src="stickers/cpp.png" width="60" alt="c++"></a>
-  <a href="https://dev.java"><img src="stickers/java.png" width="60" alt="java"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="stickers/javascript.png" width="60" alt="javascript"></a>
-  <a href="https://www.typescriptlang.org"><img src="stickers/typescript.png" width="60" alt="typescript"></a>
-  <a href="https://en.wikipedia.org/wiki/SQL"><img src="stickers/sql.png" width="60" alt="sql"></a>
-  <a href="https://nextjs.org"><img src="stickers/nextjs.png" width="60" alt="next.js"></a>
-  <a href="https://react.dev"><img src="stickers/react.png" width="60" alt="react"></a>
-  <a href="https://supabase.com"><img src="stickers/supabase.png" width="60" alt="supabase"></a>
-  <a href="https://tailwindcss.com"><img src="stickers/tailwind.png" width="60" alt="tailwind"></a>
-  <a href="https://jupyter.org"><img src="stickers/jupyter.png" width="60" alt="jupyter"></a>
-  <a href="https://aws.amazon.com"><img src="stickers/aws.png" width="60" alt="aws"></a>
-  <a href="https://git-scm.com"><img src="stickers/git.png" width="60" alt="git"></a>
-  <a href="https://claude.com/claude-code"><img src="stickers/claude-code.png" width="60" alt="claude code"></a>
+  <a href="https://www.python.org"><img src="stickers/python.png" width="46" alt="python"></a>
+  <a href="https://isocpp.org"><img src="stickers/cpp.png" width="46" alt="c++"></a>
+  <a href="https://dev.java"><img src="stickers/java.png" width="46" alt="java"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="stickers/javascript.png" width="46" alt="javascript"></a>
+  <a href="https://www.typescriptlang.org"><img src="stickers/typescript.png" width="46" alt="typescript"></a>
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="stickers/sql.png" width="46" alt="sql"></a>
+  <a href="https://nextjs.org"><img src="stickers/nextjs.png" width="46" alt="next.js"></a>
+  <a href="https://react.dev"><img src="stickers/react.png" width="46" alt="react"></a>
+  <a href="https://supabase.com"><img src="stickers/supabase.png" width="46" alt="supabase"></a>
+  <a href="https://tailwindcss.com"><img src="stickers/tailwind.png" width="46" alt="tailwind"></a>
+  <a href="https://jupyter.org"><img src="stickers/jupyter.png" width="46" alt="jupyter"></a>
+  <a href="https://aws.amazon.com"><img src="stickers/aws.png" width="46" alt="aws"></a>
+  <a href="https://git-scm.com"><img src="stickers/git.png" width="46" alt="git"></a>
+  <a href="https://claude.com/claude-code"><img src="stickers/claude-code.png" width="46" alt="claude code"></a>
 </p>
